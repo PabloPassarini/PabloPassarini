@@ -1,4 +1,4 @@
-## Salve! Sou o Pablo Passarini, estudante de Engenharia de Telecomunicações - UFSJ CAP
+
 
 <div align="center">
   <a href="https://github.com/PabloPassarini">
